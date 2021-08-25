@@ -1,13 +1,4 @@
-﻿#LINK,http://linkdata.org/upload,,,,,
-#file_name,0307toukeinenkan,,,,,
-#lang,ja,,,,,
-#attribution_name,越前市情報統計課,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,
-#property,年,事業所数,従業者数(人）,"製造品
-出荷額等（万円）",粗付加価値額（万円）,"有形固定
-資産投資額（万円）"
-#object_type_xsd,string:other,string:other,string:other,string:other,string:other,string:other
-#property_context,assertion,assertion,assertion,assertion,assertion,assertion
+﻿https://schema.org/propertyID,https://code4fukui.github.io/rdf/#year,https://code4fukui.github.io/rdf/#number_of_BusinessOffice,https://schema.org/numberOfEmployees,https://code4fukui.github.io/rdf/#shipment_value,https://code4fukui.github.io/rdf/#gross_value_added,"有形固定資産投資額（万円）"
 1,昭和48年 ,1210,"16,882",9716770,3678777,615552
 2,昭和49年,1208,16589,11934911,4717218,958529
 3,昭和50年,1231,16475,12198666,4840075,737480
