@@ -1,11 +1,4 @@
-﻿#LINK,http://linkdata.org/upload,,,,,
-#file_name,0507toukeinenkan,,,,,
-#lang,ja,,,,,
-#attribution_name,越前市情報統計課,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,
-#property,年,持家(戸),貸家(戸),給与住宅(戸),分譲住宅(戸),合計(戸)
-#object_type_xsd,string:other,string:other,string:other,string:other,string:other,string:other
-#property_context,assertion,assertion,assertion,assertion,assertion,assertion
+﻿https://schema.org/propertyID,https://code4fukui.github.io/rdf/#year,https://code4fukui.github.io/rdf/#number_of_OwnedHouse,https://code4fukui.github.io/rdf/#number_of_RentalHouse,https://code4fukui.github.io/rdf/#number_of_IssuedHouse,https://code4fukui.github.io/rdf/#number_of_dwelling_for_sale,https://code4fukui.github.io/rdf/#total_house
 1,平成元年度,370,241,5,47,663
 2,平成2年度,300,246,0,46,592
 3,平成3年度,324,178,8,38,548
