@@ -1,13 +1,4 @@
-﻿#LINK,,,,,,,,
-#lang,ja,,,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,
-#attribution_name,越前市情報統計課,,,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,
-#file_name,0216gaikokujintourokushasu,,,,,,,
-#download_from,http://linkdata.org/work/rdf1s2628i,,,,,,,
-#property,年次,総数(人),ブラジル（人）,中国(人),フィリピン(人),韓国又は朝鮮(人),米国(人),その他(人)
-#object_type_xsd,string:ja,int,int,int,int,int,int,int
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/Number,https://code4fukui.github.io/rdf/#year,https://code4fukui.github.io/rdf/#total_headcount,https://code4fukui.github.io/rdf/#Brazil_population,https://code4fukui.github.io/rdf/#China_population,https://code4fukui.github.io/rdf/#Philippines_population,https://code4fukui.github.io/rdf/#Korea_population,https://code4fukui.github.io/rdf/#America_population,https://code4fukui.github.io/rdf/#other_population
 1,平成14年,2353,1415,486,193,144,10,105
 2,平成15年,2544,1560,509,190,145,15,125
 3,平成16年,2671,1592,581,214,134,13,137
