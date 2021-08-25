@@ -1,11 +1,4 @@
-﻿#LINK,http://linkdata.org/upload,,,
-#file_name,0408toukeinennkann,,,
-#lang,ja,,,
-#attribution_name,越前市情報統計課,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,
-#property,年,田（ｈａ）,畑（ｈａ）,合計（ｈａ）
-#object_type_xsd,string:other,string:other,string:other,string:other
-#property_context,assertion,assertion,assertion,assertion
+﻿https://schema.org/propertyID,https://code4fukui.github.io/rdf/#year,https://code4fukui.github.io/rdf/#rice_field,https://code4fukui.github.io/rdf/#plowed_field,https://code4fukui.github.io/rdf/#total_field
 1,昭和45年,4890,355,5247
 2,昭和50年,4645,257,4900
 3,昭和55年,4415,263,4675
@@ -41,4 +34,4 @@
 33,平成25年,3530,182,3710
 34,平成26年,3520,182,3700
 35,平成27年,3510,180,3690
-36,平成28年,"3,510",181,"3,691"
+36,平成28年,3510,181,3691
