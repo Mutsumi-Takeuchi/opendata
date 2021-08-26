@@ -1,9 +1,4 @@
-﻿#LINK,http://linkdata.org/upload,,,,,,,,,,,,,,,,,
-#file_name,1101toukeinenkan,,,,,,,,,,,,,,,,,
-#lang,ja,,,,,,,,,,,,,,,,,
-#attribution_name,越前市情報統計課,,,,,,,,,,,,,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,,,,,,,,,,
-#property,年,火災件数　総数（件）,火災件数　建物（件）,火災件数　林野（件）,火災件数　車輌（件）,火災件数　その他（件）,焼損面積　建物（㎡）,焼損面積　林野（a）,焼損面積　その他（㎡）,損害額　総数（千円）,損害額　建物（千円）,損害額　林野（千円）,損害額　車輌（千円）,損害額　その他（千円）,り災世帯数（世帯）,り災人員（人）,死傷者数　死者（人）,死傷者数　傷者（人）
+﻿#property,年,火災件数　総数（件）,火災件数　建物（件）,火災件数　林野（件）,火災件数　車輌（件）,火災件数　その他（件）,焼損面積　建物（㎡）,焼損面積　林野（a）,焼損面積　その他（㎡）,損害額　総数（千円）,損害額　建物（千円）,損害額　林野（千円）,損害額　車輌（千円）,損害額　その他（千円）,り災世帯数（世帯）,り災人員（人）,死傷者数　死者（人）,死傷者数　傷者（人）
 #object_type_xsd,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja
 #property_context,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion
 1,平成元年,26,22,1,1,2,"2,834",31,-,"153,149",* ,* ,* ,* ,* ,* ,* ,* 
