@@ -1,11 +1,4 @@
-﻿#LINK,http://linkdata.org/upload,,,,,
-#file_name,160710jikanbetsutouhyou,,,,,
-#lang,ja,,,,,
-#attribution_name,越前市情報統計課,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,
-#property,投票者数男,投票者数女,投票者数計,投票率男,投票率女,投票率計
-#object_type_xsd,string:other,string:other,string:other,string:other,string:other,string:other
-#property_context,assertion,assertion,assertion,assertion,assertion,assertion
+﻿https://schema.org/Time,https://code4fukui.github.io/rdf/#number_of_MaleVoters,https://code4fukui.github.io/rdf/#number_of_FemaleVoters,https://code4fukui.github.io/rdf/#total_voters,https://code4fukui.github.io/rdf/#number_of_MaleTurnout,https://code4fukui.github.io/rdf/#number_of_FemaleTurnout,https://code4fukui.github.io/rdf/#total_turnout
 午前９時,2539,1974,4513,0.0782,0.0571,0.0673
 午前１０時,4214,3632,7846,0.1298,0.105,0.117
 午前１１時,5734,5244,10978,0.1767,0.1516,0.1637
