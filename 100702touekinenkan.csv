@@ -1,4 +1,4 @@
-﻿年,蔵書冊数（冊）,開館日数（日）,貸出冊数　一般（冊）,貸出冊数　児童（冊）,貸出冊数　計（冊）,貸出人数　一般（人）,貸出人数　児童（人）,貸出人数計（人）
+﻿https://code4fukui.github.io/rdf/#year,https://code4fukui.github.io/rdf/#collection_of_books,https://code4fukui.github.io/rdf/#opening_days,https://code4fukui.github.io/rdf/#lent_books_InGeneral,https://code4fukui.github.io/rdf/#lent_books_InChild,https://code4fukui.github.io/rdf/#total_lent_books,https://code4fukui.github.io/rdf/#people_lented_InGeneral,https://code4fukui.github.io/rdf/#people_lented_InChild,https://code4fukui.github.io/rdf/#total_people_lented
 昭和58年度,14615,228,4986,12032,17018,2561,5735,8296
 昭和59年度,20370,293,11226,19428,30654,5570,8515,14085
 昭和60年度,25050,288,14031,27317,41348,6994,11317,18311
