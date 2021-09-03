@@ -1,4 +1,4 @@
-﻿https://code4fukui.github.io/rdf/#year,会期日数（日）,本会議日数（日）,付議件数（件）,一般質問者数（人）,代表質問者数（人）,出席率（％）,傍聴者数（人）
+﻿https://code4fukui.github.io/rdf/#year,https://code4fukui.github.io/rdf/#number_of_days_held,https://code4fukui.github.io/rdf/#meeting_days,https://code4fukui.github.io/rdf/#number_of_proposals,https://code4fukui.github.io/rdf/#number_of_GeneralQuestioners,https://code4fukui.github.io/rdf/#number_of_RepresentativeQuestioners,https://code4fukui.github.io/rdf/#attendance_rate,https://code4fukui.github.io/rdf/#number_of_listeners
 平成17年（武生市）,53,14,105,19,-,100,16
 平成17年（今立町）,22,7,141,2,-,99,35
 平成17年（10月～12月）,20,11,74,17,-,98,19

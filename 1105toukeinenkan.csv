@@ -1,7 +1,4 @@
-﻿https://code4fukui.github.io/rdf/#year,管内世帯数（A）（世帯）,"自主防災組織の
-組織数",隊員数（人）,"組織されている
-地域の世帯数（B）（世帯）","組織率
-（B／A）（％）"
+﻿https://code4fukui.github.io/rdf/#year,https://code4fukui.github.io/rdf/#number_of_HouseholdsInJurisdiction,https://code4fukui.github.io/rdf/#number_of_organizations,https://code4fukui.github.io/rdf/#number_of_members,https://code4fukui.github.io/rdf/#number_of_OrganizedRegionalHouseholds,https://code4fukui.github.io/rdf/#organization_rate
 平成17年,"26,272",215,"3,942","24,611",93.7
 平成18年,"26,397",216,"4,046","24,428",92.5
 平成19年,"26,601",217,"4,109","24,269",91.2
